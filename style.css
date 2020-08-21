@@ -1,0 +1,45 @@
+h1{
+    color: #800080;;
+}
+
+.grid{
+    background-color:#008B8B;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.all{
+    background-color:#6456B7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.about{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.item{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.header{
+    background-color: #00FFFF;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.links{
+    background-color:#6495ED;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
